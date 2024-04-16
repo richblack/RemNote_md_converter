@@ -23,3 +23,7 @@ To customize the conversion process and achieve desired formatting, you can util
 | Table Captions          | #TableCaption                | Word has a table caption format. The converter transforms it into small text above the table and automatically adds numbering.   |
 
 By incorporating these tags into your RemNote Markdown files, you can easily control the formatting of the converted output, ensuring that your content is presented as intended in the target format.
+
+## Install
+Download Executable file from: https://github.com/richblack/RemNote_md_converter/blob/main/md_converter.app.zip
+Download source code from: https://github.com/richblack/RemNote_md_converter/blob/main/converter.py

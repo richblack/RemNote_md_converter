@@ -27,8 +27,8 @@ To customize the conversion process and achieve desired formatting, you can util
 | Ordered Lists 有序列表   | #ol                         | List items are preceded by a marker, such as 1, 2, 3, or a, b, c, and are indented one level. Lists can have nested levels, which are further indented. 列表項前面有一個標記,例如 1、2、3 或 a、b、c,並縮進一級。列表可以有嵌套級別,進一步縮進。 |
 | List to Table Conversion 列表到表格轉換 | #ListToTable | ZK software, like RemNote, records tables using indented lists, but when exported, they revert back to indented lists. The converter identifies and converts them back to tables. ZK 軟件(如 RemNote)使用縮進列表記錄表格,但在匯出時,它們會恢復為縮進列表。轉換器可識別並將它們轉換回表格。 |
 | Text Alignment 文本對齊  | #centered, #right, #Justified| Word is used daily, but MD does not support these alignment options: center, right, and justified. The converter applies the specified alignment to the text. Word 的文本對齊選項 MD 不支援:居中、右對齊和左右對齊。轉換器將應用指定的對齊方式於文本。|
-| Writing Outline 寫作大綱 | #outline                    | Paragraph summary used to remind yourself and AI. It is not displayed in the output and only exists in the ZK software. 段落摘要用於提醒自己和 AI。它不會顯示在輸出中,只存在於 ZK 軟件中。|
-| Non-indented Text 非縮進文本| #NoSpace                 | Word's "body" text is indented by default with 2
+| Writing Outline 寫作大綱 | #outline                    | Paragraph summary used to remind yourself and AI. It is not displayed in the output and only exists in the ZK software. 段落摘要用於提醒自己和 AI。它不會顯示在輸出中,只存在於 ZK 軟體中。|
+| Non-indented Text 非縮進文本| #NoSpace                 | Word's "body" text is indented by default with 2 spaces, NoSpace formats the paragraph in Word with NoSpace style. 本文通常會空兩個字，標示這個標籤表示不要變為一般本文，而是無內縮
 
 在您的 RemNote Markdown 檔案中併入這些標籤,您可以輕鬆控制轉換輸出的格式化,確保您的內容在目標格式中按預期呈現。
 

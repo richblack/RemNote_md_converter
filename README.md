@@ -3,11 +3,11 @@ RemNote 是一款強大的 Zettelkasten 風格筆記應用程式,可讓使用者
 
 RemNote is a powerful Zettelkasten-style note-taking application that allows users to export their notes in Markdown format. However, when exporting notes from RemNote, the application formats all the lines as lists, which differs from the standard Markdown syntax. This formatting can cause issues when attempting to convert the exported Markdown files into other formats using tools like Pandoc.
 
-為了解決這個問題,RemNote Markdown 轉換器這個計畫提供了一個使用者友善的 Python 應用程式,可將從 RemNote 匯出的 Markdown 檔案無縫轉換為常規的 Markdown 格式。使用此轉換器,使用者可輕鬆將 RemNote 筆記轉換為標準化的 Markdown 結構,確保與各種檔案轉換工具(如 Pandoc)的相容性。
+為了解決這個問題,這個 RemNote md converter 提供了一個友善的 Python 應用程式,可將 RemNote 匯出的 Markdown 檔案轉換為常規的 Markdown 格式。使用此轉換器,使用者可輕鬆將 RemNote 筆記轉換為標準化的 Markdown 結構,確保與各種檔案轉換工具(如 Pandoc)的相容性。
 
 To address this problem, the RemNote Markdown Converter project provides a user-friendly Python application that seamlessly converts the exported RemNote Markdown files into regular Markdown format. By utilizing this converter, users can easily transform their RemNote notes into a standardized Markdown structure, ensuring compatibility with various file conversion tools, such as Pandoc.
 
-使用 RemNote Markdown 轉換器,使用者可以輕鬆彌合 RemNote 獨特的匯出風格與廣泛接受的 Markdown 語法之間的差距。使使用者能夠充分發揮 RemNote 筆記的潛力,啟用平滑轉換為各種檔案格式,提高知識庫的靈活性和可攜性。
+使用 RemNote Markdown 轉換器,使用者可以輕鬆補齊 RemNote 獨特的匯出風格與廣泛接受的 Markdown 語法之間的差距。使使用者能夠充分發揮 RemNote 筆記的潛力,讓它可以轉換為各種檔案格式,提高知識庫的靈活性和可攜性。
 
 With the RemNote Markdown Converter, users can effortlessly bridge the gap between RemNote's unique exporting style and the widely-accepted Markdown syntax. This empowers users to leverage the full potential of their RemNote notes by enabling smooth conversion to a wide range of file formats, enhancing the flexibility and portability of their knowledge base.
 
